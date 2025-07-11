@@ -1,0 +1,1 @@
+This app allows you to create the shortest tourist route that includes places connected to Pushkin. You can choose the number of places, create white and black lists, mark if you want to stay at the hotel, read the info about any place and explore the map.
